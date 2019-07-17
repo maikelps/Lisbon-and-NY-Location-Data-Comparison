@@ -10,9 +10,13 @@ Since I've been living in Lisbon for two years now, It's almost impossible to no
 
 Which cities in the world make you consider them as "big metropolis"? there's no doubt that when you try to answer this question that a city like New York, Hong Kong or Paris comes to your mind. Depending on different factors it would make sense to base your operations in certain places instead of others. Maybe you are looking for a great place that presents certain characteristics that indicate that it would make sense to set your operations there and would give you an advantage over your competitors.
 
-Since I have at my disposal location data from Foursquare and Portugal's postal codes (https://en.wikipedia.org/wiki/List_of_postal_codes_in_Portugal#Lisboa_District) it is fair to ask oneself how different is Lisbon from other big cities or even to different cities in Portugal, like its eternal rival, Porto.
+Since I have at my disposal location data from Foursquare and Portugal's postal codes it is fair to ask oneself how different is Lisbon from other big cities or even to different cities in Portugal, like its eternal rival, Porto.
 
 That's why on this project, I'm going to compare the location data from New York and Lisbon and see how different they are in the types of venues, proportions of those venues and neighborhoods differences. And then, just for fun and, on a local scale, do the same analysis between Porto and Lisbon to provide value to companies having Portugal in their scope for future projects.
+
+Data Sources:
+  * For Portugal's postal codes: https://en.wikipedia.org/wiki/List_of_postal_codes_in_Portugal
+  * Location data: https://developer.foursquare.com/
 
 If you consider it, feel free to send me any feedback or comments on it.
 
