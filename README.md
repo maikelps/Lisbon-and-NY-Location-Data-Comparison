@@ -6,6 +6,8 @@ Thank you for reading this project. The present repository is required as final 
 
 The requirements are to explore or compare neighborhoods or cities of choice or to come up with a problem that you can use the Foursquare location data to solve.
 
+## Introduction
+
 Since I've been living in Lisbon for two years now, It's almost impossible to not develop a bit of care for this city and most people tend to compare certain characteristics of another big metropolis to it. It is not something rare when these kinds of comparisons arise, if you are a company of certain size looking to install one base of operations or your central headquarters there's so much to consider when committing to such a thing.
 
 Which cities in the world make you consider them as "big metropolis"? there's no doubt that when you try to answer this question that a city like New York, Hong Kong or Paris comes to your mind. Depending on different factors it would make sense to base your operations in certain places instead of others. Maybe you are looking for a great place that presents certain characteristics that indicate that it would make sense to set your operations there and would give you an advantage over your competitors.
