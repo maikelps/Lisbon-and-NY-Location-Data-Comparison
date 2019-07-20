@@ -22,7 +22,7 @@ The Data that I will use:
   * Portugal's postal codes: https://en.wikipedia.org/wiki/List_of_postal_codes_in_Portugal
   * Location data: https://developer.foursquare.com/
 
-To study each of the neighborhood of the cities we need to get the geographical coordinates of each postal code (a thing we've done before) and compare the top venues types between each. Based on that, draw some conclusions on which city has more types of venues or how different their neighborhoods are in between them.
+To study each of the neighborhood of the cities we need to get the geographical coordinates of each postal code (a thing we've done before) and compare the top venues types between each. Based on that, we can do an analysis and draw some conclusions on which city has more types of venues or how different their neighborhoods are in between them.
 
 #### Comments
 If you consider it, feel free to send me any feedback for this project and thanks for the feedback I already got.
