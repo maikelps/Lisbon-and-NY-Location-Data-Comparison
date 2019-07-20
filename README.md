@@ -18,12 +18,13 @@ Since I have at my disposal location data from Foursquare and Portugal's postal 
 
 On this project, I'm going to compare the location data from New York and Lisbon and see how different they are in the types of venues, proportions of those venues and neighborhoods differences. And then, just for fun and, on a local scale, do the same analysis between Porto and Lisbon to provide value to companies having Portugal in their scope for future projects.
 
-The Data that will be used are:
+The Data that I will use:
   * Portugal's postal codes: https://en.wikipedia.org/wiki/List_of_postal_codes_in_Portugal
   * Location data: https://developer.foursquare.com/
 
 To study each of the neighborhood of the cities we need to get the geographical coordinates of each postal code (a thing we've done before) and compare the top venues types between each. Based on that, draw some conclusions on which city has more types of venues or how different their neighborhoods are in between them.
 
+#### Comments
 If you consider it, feel free to send me any feedback or comments on it.
 
 Thanks again.
