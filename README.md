@@ -14,7 +14,9 @@ Which cities in the world make you consider them as "big metropolis"? there's no
 
 Since I have at my disposal location data from Foursquare and Portugal's postal codes it is fair to ask oneself how different is Lisbon from other big cities or even to different cities in Portugal, like its eternal rival, Porto.
 
-That's why on this project, I'm going to compare the location data from New York and Lisbon and see how different they are in the types of venues, proportions of those venues and neighborhoods differences. And then, just for fun and, on a local scale, do the same analysis between Porto and Lisbon to provide value to companies having Portugal in their scope for future projects.
+## Problem set up and resolution
+
+On this project, I'm going to compare the location data from New York and Lisbon and see how different they are in the types of venues, proportions of those venues and neighborhoods differences. And then, just for fun and, on a local scale, do the same analysis between Porto and Lisbon to provide value to companies having Portugal in their scope for future projects.
 
 The Data that will be used are:
   * Portugal's postal codes: https://en.wikipedia.org/wiki/List_of_postal_codes_in_Portugal
