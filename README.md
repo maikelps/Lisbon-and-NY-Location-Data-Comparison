@@ -16,7 +16,7 @@ Since I have at my disposal location data from Foursquare and Portugal's postal 
 
 ## Problem set up and resolution
 
-On this project, I'm going to compare the location data from New York and Lisbon and see how different they are in the types of venues, proportions of those venues and neighborhoods differences. And then, just for fun and, on a local scale, do the same analysis between Porto and Lisbon to provide value to companies having Portugal in their scope for future projects.
+In this project, I'm going to compare the location data from New York and Lisbon and see how different they are in the types of venues, proportions of those venues and neighborhoods differences. And then, just for fun and, on a local scale, do the same analysis between Porto and Lisbon to provide value to companies having Portugal in their scope for future projects.
 
 The Data that I will use:
   * Portugal's postal codes: https://en.wikipedia.org/wiki/List_of_postal_codes_in_Portugal
