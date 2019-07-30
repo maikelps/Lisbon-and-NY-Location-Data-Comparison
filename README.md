@@ -1,4 +1,4 @@
-# Lisbon-and-NY-Location-Data-Comparison
+# Lisbon-and-Porto-Location-Data-Comparison
 
 Hello reader,
 
@@ -8,15 +8,15 @@ The requirements are to explore or compare neighborhoods or cities of choice or 
 
 ## Introduction
 
-Since I've been living in Lisbon for two years now, It's almost impossible to not develop a bit of care for this city and most people tend to compare certain characteristics of another big metropolis to it. It is not something rare when these kinds of comparisons arise, if you are a company of certain size looking to install one base of operations or your central headquarters there's so much to consider when committing to such a thing.
+Since I've been living in Lisbon for two years now, It's almost impossible to not develop a bit of care for this city and most people tend to compare certain characteristics of another big metropolis to it. It is not something rare when these kinds of comparisons arise, if you are someone looking to create a business or know which kind of investment to pursue it can be complicated to make a decision.
 
-Which cities in the world make you consider them as "big metropolis"? there's no doubt that when you try to answer this question that a city like New York, Hong Kong or Paris comes to your mind. Depending on different factors it would make sense to base your operations in certain places instead of others. Maybe you are looking for a great place that presents certain characteristics that indicate that it would make sense to set your operations there and would give you an advantage over your competitors.
+Lisbon always gets compared to the rest of the cities in Portugal, but it gets compared a lot with another Portuguese city, Porto.
 
-Since I have at my disposal location data from Foursquare and Portugal's postal codes it is fair to ask oneself how different is Lisbon from other big cities or even to different cities in Portugal, like its eternal rival, Porto.
+Since I have at my disposal location data from Foursquare and Portugal's postal codes it is fair to ask oneself how different is Lisbon from Porto.
 
 ## Problem set up and resolution
 
-In this project, I'm going to compare the location data from New York and Lisbon and see how different they are in the types of venues, proportions of those venues and neighborhoods differences. And then, just for fun and, on a local scale, do the same analysis between Porto and Lisbon to provide value to companies having Portugal in their scope for future projects.
+In this project, I'm going to compare the location data from Porto and Lisbon and see how different they are in the types of venues and neighborhoods differences. This project has the intention to provide value to companies or small entrepreneurs having Portugal in their scope for future projects.
 
 The Data that I will use:
   * Portugal's postal codes: https://en.wikipedia.org/wiki/List_of_postal_codes_in_Portugal
